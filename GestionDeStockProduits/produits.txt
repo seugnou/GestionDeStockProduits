@@ -1,0 +1,9 @@
+1:Ordinateur(s):5
+2:Clavier(s):3
+3:Souris:8
+4:Téléphone(s):10
+5:Sac(s):9
+6:Voiture(s):0
+7:Avion(s):10
+8:Clé(s):9
+9:Table(s):6

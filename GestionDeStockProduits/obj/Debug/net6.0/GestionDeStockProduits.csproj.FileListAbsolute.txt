@@ -1,0 +1,15 @@
+C:\Users\NDACH\Documents\C# Workspace\alapa\GestionDeStockProduits\obj\Debug\net6.0\GestionDeStockProduits.csproj.AssemblyReference.cache
+C:\Users\NDACH\Documents\C# Workspace\alapa\GestionDeStockProduits\obj\Debug\net6.0\GestionDeStockProduits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NDACH\Documents\C# Workspace\alapa\GestionDeStockProduits\obj\Debug\net6.0\GestionDeStockProduits.AssemblyInfoInputs.cache
+C:\Users\NDACH\Documents\C# Workspace\alapa\GestionDeStockProduits\obj\Debug\net6.0\GestionDeStockProduits.AssemblyInfo.cs
+C:\Users\NDACH\Documents\C# Workspace\alapa\GestionDeStockProduits\obj\Debug\net6.0\GestionDeStockProduits.csproj.CoreCompileInputs.cache
+C:\Users\NDACH\Documents\C# Workspace\alapa\GestionDeStockProduits\bin\Debug\net6.0\GestionDeStockProduits.exe
+C:\Users\NDACH\Documents\C# Workspace\alapa\GestionDeStockProduits\bin\Debug\net6.0\GestionDeStockProduits.deps.json
+C:\Users\NDACH\Documents\C# Workspace\alapa\GestionDeStockProduits\bin\Debug\net6.0\GestionDeStockProduits.runtimeconfig.json
+C:\Users\NDACH\Documents\C# Workspace\alapa\GestionDeStockProduits\bin\Debug\net6.0\GestionDeStockProduits.dll
+C:\Users\NDACH\Documents\C# Workspace\alapa\GestionDeStockProduits\bin\Debug\net6.0\GestionDeStockProduits.pdb
+C:\Users\NDACH\Documents\C# Workspace\alapa\GestionDeStockProduits\obj\Debug\net6.0\GestionDeStockProduits.dll
+C:\Users\NDACH\Documents\C# Workspace\alapa\GestionDeStockProduits\obj\Debug\net6.0\refint\GestionDeStockProduits.dll
+C:\Users\NDACH\Documents\C# Workspace\alapa\GestionDeStockProduits\obj\Debug\net6.0\GestionDeStockProduits.pdb
+C:\Users\NDACH\Documents\C# Workspace\alapa\GestionDeStockProduits\obj\Debug\net6.0\GestionDeStockProduits.genruntimeconfig.cache
+C:\Users\NDACH\Documents\C# Workspace\alapa\GestionDeStockProduits\obj\Debug\net6.0\ref\GestionDeStockProduits.dll
